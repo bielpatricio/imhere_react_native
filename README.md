@@ -4,7 +4,6 @@
 
 <br />
 <div align="center">
-  <img src="src/assets/logo.svg" alt="Logo" width="160" height="160">
   <h1 align="center">Lista de presença</h3>
 </div>
 
