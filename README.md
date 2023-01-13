@@ -14,12 +14,14 @@
 
 <p align="center">
     <p><a href="#about-the-project" title=" go to About the Project">About The Project</a></p>
-    <p><a href="#Layout" title=" go to Layout">Layout</a></p>
-    <p><a href="#Running locally" title=" go to Running locally">Running locally</a></p>
+    <p><a href="#layout" title=" go to Layout">Layout</a></p>
+    <p><a href="#running-locally" title=" go to Running locally">Running locally</a></p>
     <p><a href="#contact" title=" go to Contact">Contact</a></p>
   </p>
 
 <br>
+
+
 <!-- ABOUT THE PROJECT -->
 
 # About The Project
@@ -27,6 +29,19 @@
 O projeto é uma lista de presença que foi feito com React Native e o Expo. O projeto faz parte da trilha do React Native 2022 do ignite da RocketSeat.
 
 <br>
+
+# Layout
+
+
+<br>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img src="https://user-images.githubusercontent.com/32223762/212404843-41dc8dcd-1575-4555-b912-9d3f10d97092.png" alt="Foto 1"  height="700">
+  <br>
+  
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img src="https://user-images.githubusercontent.com/32223762/212404966-aee824b2-bda8-46e7-907e-5cc541e9acd1.png" alt="Foto 2"  height="700">
+
 
 <br>
 
