@@ -24,9 +24,14 @@ export function Home() {
     if (participants.includes(participantName)) {
       return Alert.alert(
         'Participante Existe',
-        `${participantName} ja esta na lista`,
+        `${participantName} já esta na lista`,
       )
     }
+
+    if (participantName === '') {
+      return Alert.alert('Nome do Participante', `Coloque um nome válido`)
+    }
+
     setParticipants((state) => {
       // return [...state, { name: participantName, id: participants.length }]
       return [...state, participantName]
