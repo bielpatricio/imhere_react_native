@@ -8,7 +8,7 @@ export const styles = StyleSheet.create({
     padding: 32,
   },
   title: {
-    color: defaultTheme['teal-700'],
+    color: defaultTheme['teal-500'],
     fontWeight: 'bold',
     fontSize: 32,
     marginTop: 36,
@@ -23,7 +23,7 @@ export const styles = StyleSheet.create({
   input: {
     padding: 16,
     color: defaultTheme['gray-100'],
-    backgroundColor: '#f4f4',
+    backgroundColor: defaultTheme['teal-700'],
     borderRadius: 12,
     // borderBottomLeftRadius: 12,
     // borderTopLeftRadius: 12,
@@ -53,7 +53,7 @@ export const styles = StyleSheet.create({
     flexDirection: 'row',
   },
   listEmpityText: {
-    color: defaultTheme['teal-300'],
+    color: defaultTheme['teal-500'],
     fontSize: 14,
     textAlign: 'center',
   },
